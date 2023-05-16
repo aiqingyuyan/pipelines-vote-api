@@ -1,1 +1,1 @@
-# tekton-pipelines-demo
+# Openshift Pipelines Demo
